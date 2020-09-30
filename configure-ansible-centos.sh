@@ -12,7 +12,7 @@ pip3 install ansible[azure]
 # Install Ansible modules and plugins for interacting with Azure.
 ansible-galaxy collection install azure.azcollection
 
-# Install required modules ofr Ansible on Azure
+# Install required modules for Ansible on Azure
 wget https://raw.githubusercontent.com/ansible-collections/azure/dev/requirements-azure.txt
 
 # Install Ansible modules
